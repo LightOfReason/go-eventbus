@@ -1,6 +1,6 @@
 ### go-eventbus
 
-Eventbus for the go programming language
+A simple eventbus for the go programming language
 
 ### Importing
 
