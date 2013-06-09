@@ -4,7 +4,7 @@ A simple eventbus written in go.
 
 ### Importing
 
-    import github.com/LightOfReason/go-eventbus
+    go get github.com/LightOfReason/go-eventbus
 
 ### Example
 ```go
